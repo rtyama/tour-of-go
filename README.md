@@ -1,9 +1,6 @@
 # tour-of-go
 tour of go の最初から以下までやりました。
-https://go-tour-jp.appspot.com/flowcontrol/14
-
 わからなかったところをメモ
-
 
 ## https://go-tour-jp.appspot.com/basics/2
 - グループ化？
