@@ -29,3 +29,19 @@ tour of go の最初から以下までやりました。
 ## https://go-tour-jp.appspot.com/basics/12
 - ゼロ価ってなに？
   - その型の持つ標準の値。
+
+ https://go-tour-jp.appspot.com/flowcon
+ ‐c言語ってなに？
+ 
+ 
+ https://go-tour-jp.appspot.com/flowcontrol/6
+ ースコープってなに？
+        
+
+https://go-tour-jp.appspot.com/flowcontrol/8              
+‐z² ってなに？
+
+https://go-tour-jp.appspot.com/flowcontrol/9
+‐シーケンスってなに？
+
+
