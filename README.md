@@ -30,18 +30,23 @@ tour of go の最初から以下までやりました。
 - ゼロ価ってなに？
   - その型の持つ標準の値。
 
- https://go-tour-jp.appspot.com/flowcon
- ‐c言語ってなに？
- 
- 
- https://go-tour-jp.appspot.com/flowcontrol/6
- ースコープってなに？
-        
+## https://go-tour-jp.appspot.com/flowcontrol/1
+- c言語ってなに？
+  - 以下の引用部分だね。これらはGo以外のプログラミング言語のことです。
+```text
+Note: 他の言語、C言語 や Java、JavaScriptの for ループとは異なり、 for ステートメントの3つの部分を括る括弧 ( ) はありません。なお、中括弧 { } は常に必要です。
+```
 
-https://go-tour-jp.appspot.com/flowcontrol/8              
-‐z² ってなに？
+## https://go-tour-jp.appspot.com/flowcontrol/6
+- スコープってなに？
+  - 直訳的に説明すると `見える部分` かな。  
+  この問題の場合は、 _ifステートメントのスコープ_ なので、「ifの中でだけ有効です。」と読み替えるといいよ。
 
-https://go-tour-jp.appspot.com/flowcontrol/9
-‐シーケンスってなに？
+## https://go-tour-jp.appspot.com/flowcontrol/8              
+- z² ってなに？
+  - 乗数のことだよ。zをxに置き換えると馴染みがありそうかな？  
+  少し難しい内容なので読み飛ばしていいよ。
 
-
+## https://go-tour-jp.appspot.com/flowcontrol/9
+- シーケンスってなに？
+  - 英語で書くと _sequence_ と書くよ。辞典などで意味を調べてみよう。
